@@ -1,7 +1,7 @@
-#Installation  
+# Installation  
 `npm install is-sixty-nine`
 
-#Usage
+# Usage
 `const isSixtyNine = require("is-sixty-nine");`
 
 `if (isSixtyNine(val)) {//...}`
