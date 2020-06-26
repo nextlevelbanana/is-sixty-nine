@@ -1,0 +1,26 @@
+{
+  "name": "is-sixty-nine",
+  "version": "1.0.0",
+  "description": "nice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "main": "run-func index.js default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nextlevelbanana/is-sixty-nine"
+  },
+  "keywords": [
+    "math",
+    "is-sixty-nine",
+    "nice"
+  ],
+  "author": "NextLevelBanana",
+  "license": "WTFPL",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "dependencies": {
+  }
+}
